@@ -1,0 +1,12 @@
+{
+	"name"            : "static_run",
+	"version"         : "0.0.1",
+	"devDependencies" : {
+		"grunt"                 : "*",
+		"grunt-contrib-connect" : "*",
+		"grunt-contrib-livereload" : "*",
+		"grunt-open"            : "*",
+		"grunt-regarde"         : "*",
+		"matchdep"              : "*"
+	}
+}
