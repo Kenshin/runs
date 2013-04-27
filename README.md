@@ -1,11 +1,12 @@
-### Runs(A Static server with Grunt.js)
+Runs(A Static server with Grunt.js)
+======
 
-#### Feature
+## Feature：
 * Base on Node.js and Grunt.js
 * Auto Open src/index.html to browser(http://localhost:3000)
 * LiveReload(html, css, js and all)
 
-#### Install
+## Install：
 * install [Node.js](http://nodejs.org/)
 * install [Grunt.js](http://gruntjs.com/)
 * git clone https://github.com/Kenshin/runs.git
